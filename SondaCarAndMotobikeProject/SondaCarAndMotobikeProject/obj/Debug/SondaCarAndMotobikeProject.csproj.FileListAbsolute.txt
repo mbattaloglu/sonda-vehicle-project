@@ -1,0 +1,7 @@
+C:\Users\mmbat\Desktop\Repositories\sonda\SondaCarAndMotobikeProject\SondaCarAndMotobikeProject\bin\Debug\SondaCarAndMotobikeProject.exe.config
+C:\Users\mmbat\Desktop\Repositories\sonda\SondaCarAndMotobikeProject\SondaCarAndMotobikeProject\bin\Debug\SondaCarAndMotobikeProject.exe
+C:\Users\mmbat\Desktop\Repositories\sonda\SondaCarAndMotobikeProject\SondaCarAndMotobikeProject\bin\Debug\SondaCarAndMotobikeProject.pdb
+C:\Users\mmbat\Desktop\Repositories\sonda\SondaCarAndMotobikeProject\SondaCarAndMotobikeProject\obj\Debug\SondaCarAndMotobikeProject.csprojAssemblyReference.cache
+C:\Users\mmbat\Desktop\Repositories\sonda\SondaCarAndMotobikeProject\SondaCarAndMotobikeProject\obj\Debug\SondaCarAndMotobikeProject.csproj.CoreCompileInputs.cache
+C:\Users\mmbat\Desktop\Repositories\sonda\SondaCarAndMotobikeProject\SondaCarAndMotobikeProject\obj\Debug\SondaCarAndMotobikeProject.exe
+C:\Users\mmbat\Desktop\Repositories\sonda\SondaCarAndMotobikeProject\SondaCarAndMotobikeProject\obj\Debug\SondaCarAndMotobikeProject.pdb
